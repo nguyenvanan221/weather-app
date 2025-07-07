@@ -13,6 +13,7 @@ A Flutter project.
   </li>
 </ul>
 ## DEMO
-![image](https://github.com/user-attachments/assets/87755c07-d4dc-4ebb-abe5-4339f9c6bc08)
+![image](https://github.com/user-attachments/assets/a4f790d1-037b-4c2e-948b-2f7a29453565)
+
 
 
